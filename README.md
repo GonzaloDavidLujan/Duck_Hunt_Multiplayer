@@ -1,0 +1,1 @@
+Como proyecto final, en parejas, para la materia "Programación sobre Redes", decidimos recrear el juego "Duck Hunt" añadiendole la posibilidad de jugar en multijugador local. Fue realizado en Java utilizando el framework LIBGDX,  se implementó el protocolo UDP para la comunicación entre los 2 (dos) jugadores (clientes) y el servidor.
